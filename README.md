@@ -9,3 +9,9 @@ Step -6> There is predefined Tables in which the whole analysis and end result n
 Step -7 > Close all the files and save New Spreadsheet created at Step 1.
 
 All these steps will be done just by click of one RUN Button.
+
+This VBA Code will cut copy paste data in to new file , use Vlookup function , create PIVOT Tables, run another Macro to generate Variance and Status of accounts.
+It helps in increasing the productivity as this task took approx half an hour of an associate to prepare it manually.
+
+
+You can downlaod the Test_Format_Macro_New.xlsm file and use the raw data to run it . 
